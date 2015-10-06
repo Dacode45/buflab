@@ -1,0 +1,3 @@
+Having 40 characters gives bus error
+Getbuffer at 0x401143
+Return adress was 40 bytes from top of stack
