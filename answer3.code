@@ -1,0 +1,10 @@
+
+answer3.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	48 c7 c5 b8 3e 68 55 	mov    $0x55683eb8,%rbp
+   7:	68 b8 3e 68 55       	pushq  $0x55683eb8
+   c:	c3                   	retq   
