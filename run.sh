@@ -1,4 +1,4 @@
 #! /bin/bash
 
-./hex2raw < answer1.txt > answer1hex.txt
-./bufbomb -u ayekedavidr < answer1hex.txt
+./hex2raw < answer2.txt > answer2hex.txt
+./bufbomb -u ayekedavidr < answer2hex.txt
